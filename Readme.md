@@ -1,6 +1,8 @@
 # [CVPR 2026] High-Quality and Efficient Turbulence Mitigation with Events
-⭐ This repository will contain the official implementation and dataset for our project.
-⭐ The code and dataset will be released soon.
+## ⭐ News
+This repository will contain the official implementation and dataset for our project.
+
+The code and dataset will be released soon.
 
 ---
 
