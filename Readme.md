@@ -8,13 +8,17 @@
 
 We present **CTTH and LATH**, **two event–frame paired datasets** for turbulence imaging research, covering both **thermal** and **atmospheric** cases.
 
-<p align="center">
-  <img src="assets/SupFigure_10-eps-converted-to.pdf" width="85%">
-</p>
-
 ### 🔥 CTTH: Close-range Thermal Turbulence Hybrid Dataset
 
-<p align="center"> <video src="assets/ctth_demo.mp4" width="70%" controls></video> </p>
+<p align="center">
+  <img src="assets/ctth_demo.gif" width="32%">
+  <img src="assets/lath_demo1.gif" width="32%">
+  <img src="assets/lath_demo2.gif" width="32%">
+</p>
+
+<p align="center">
+  <em>Examples of thermal turbulence (CTTH) and atmospheric turbulence (LATH) under different conditions.</em>
+</p>
 
 The CTTH dataset is designed to capture:
 
