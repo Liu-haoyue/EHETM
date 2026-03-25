@@ -6,7 +6,11 @@
 
 ## 📌 Overview
 
-We present **CTTH and LATH**, **two event–frame paired datasets** for turbulence imaging research, covering both **thermal** and **atmospheric** cases.
+## 📦 Dataset
+
+We present **CTTH and LATH**, **two event–frame paired datasets** for turbulence imaging research, covering both **thermal** and **atmospheric** cases. We offer both **Baidu Cloud Drive** ([Download Link](https://pan.baidu.com/s/xxxx), code: xxxx) and **Google Drive** ([Download Link](https://drive.google.com/xxxx)).
+
+Each sequence is organized as:
 
 ### 🔥 CTTH: Close-range Thermal Turbulence Hybrid Dataset
 
@@ -108,22 +112,3 @@ This dataset is designed to support:
 - **Turbulence mitigation**
 - **Event-based video/image restoration**
 ---
-
-## 🎬 Visual Examples
-
-### 🔹 Turbulence Effects
-<p align="center">
-  <img src="assets/demo1.gif" width="45%">
-  <img src="assets/demo2.gif" width="45%">
-</p>
-
-### 🔹 Event Visualization
-<p align="center">
-  <img src="assets/event_vis.gif" width="60%">
-</p>
-
-> 📎 More videos available in [videos/](videos/)
-
----
-
-## 📦 Dataset Structure
