@@ -20,20 +20,20 @@ We present **CTTH and LATH**, **two event–frame paired datasets** for turbulen
     <th>Events</th>
   </tr>
   <tr>
-    <td><img src="assets/dynamic1_GT.gif" width="140" height="140" style="object-fit: cover;"></td>
-    <td><img src="assets/dynamic1_Turb.gif" width="140" height="140" style="object-fit: cover;"></td>
-    <td><img src="assets/dynamic1_event.gif" width="140" height="140" style="object-fit: cover;"></td>
-    <td><img src="assets/dynamic2_gt.gif" width="140" height="140" style="object-fit: cover;"></td>
-    <td><img src="assets/dynamic2_turb.gif" width="140" height="140" style="object-fit: cover;"></td>
-    <td><img src="assets/dynamic2_event.gif" width="140" height="140" style="object-fit: cover;"></td>
+    <td><img src="assets/dynamic1_GT.gif" width="130" height="130" style="object-fit: cover;"></td>
+    <td><img src="assets/dynamic1_Turb.gif" width="130" height="130" style="object-fit: cover;"></td>
+    <td><img src="assets/dynamic1_event.gif" width="130" height="130" style="object-fit: cover;"></td>
+    <td><img src="assets/dynamic2_gt.gif" width="130" height="130" style="object-fit: cover;"></td>
+    <td><img src="assets/dynamic2_turb.gif" width="130" height="130" style="object-fit: cover;"></td>
+    <td><img src="assets/dynamic2_event.gif" width="130" height="130" style="object-fit: cover;"></td>
   </tr>
   <tr>
-    <td><img src="assets/static1_GT.png" width="140" height="140" style="object-fit: cover;"></td>
-    <td><img src="assets/static1_turb.gif" width="140" height="140" style="object-fit: cover;"></td>
-    <td><img src="assets/static1_events.gif" width="140" height="140" style="object-fit: cover;"></td>
-    <td><img src="assets/static2_GT.png" width="140" height="140" style="object-fit: cover;"></td>
-    <td><img src="assets/static2_turb.gif" width="140" height="140" style="object-fit: cover;"></td>
-    <td><img src="assets/static2_events.gif" width="140" height="140" style="object-fit: cover;"></td>
+    <td><img src="assets/static1_GT.png" width="130" height="130" style="object-fit: cover;"></td>
+    <td><img src="assets/static1_turb.gif" width="130" height="130" style="object-fit: cover;"></td>
+    <td><img src="assets/static1_events.gif" width="130" height="130" style="object-fit: cover;"></td>
+    <td><img src="assets/static2_GT.png" width="130" height="130" style="object-fit: cover;"></td>
+    <td><img src="assets/static2_turb.gif" width="130" height="130" style="object-fit: cover;"></td>
+    <td><img src="assets/static2_events.gif" width="130" height="130" style="object-fit: cover;"></td>
   </tr>
 </table>
 
