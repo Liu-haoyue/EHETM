@@ -20,20 +20,20 @@ We present **CTTH and LATH**, **two event–frame paired datasets** for turbulen
     <th>Events</th>
   </tr>
   <tr>
-    <td><img src="assets/dynamic1_GT.gif" width="100%"></td>
-    <td><img src="assets/dynamic1_Turb.gif" width="100%"></td>
-    <td><img src="assets/dynamic1_event.gif" width="100%"></td>
-    <td><img src="assets/dynamic2_gt.gif" width="100%"></td>
-    <td><img src="assets/dynamic2_turb.gif" width="100%"></td>
-    <td><img src="assets/dynamic2_event.gif" width="100%"></td>
+    <td><img src="assets/dynamic1_GT.gif" width="140" height="140" style="object-fit: cover;"></td>
+    <td><img src="assets/dynamic1_Turb.gif" width="140" height="140" style="object-fit: cover;"></td>
+    <td><img src="assets/dynamic1_event.gif" width="140" height="140" style="object-fit: cover;"></td>
+    <td><img src="assets/dynamic2_gt.gif" width="140" height="140" style="object-fit: cover;"></td>
+    <td><img src="assets/dynamic2_turb.gif" width="140" height="140" style="object-fit: cover;"></td>
+    <td><img src="assets/dynamic2_event.gif" width="140" height="140" style="object-fit: cover;"></td>
   </tr>
   <tr>
-    <td><img src="assets/static1_GT.png" width="100%"></td>
-    <td><img src="assets/static1_turb.gif" width="100%"></td>
-    <td><img src="assets/static1_events.gif" width="100%"></td>
-    <td><img src="assets/static2_GT.png" width="100%"></td>
-    <td><img src="assets/static2_turb.gif" width="100%"></td>
-    <td><img src="assets/static2_events.gif" width="100%"></td>
+    <td><img src="assets/static1_GT.png" width="140" height="140" style="object-fit: cover;"></td>
+    <td><img src="assets/static1_turb.gif" width="140" height="140" style="object-fit: cover;"></td>
+    <td><img src="assets/static1_events.gif" width="140" height="140" style="object-fit: cover;"></td>
+    <td><img src="assets/static2_GT.png" width="140" height="140" style="object-fit: cover;"></td>
+    <td><img src="assets/static2_turb.gif" width="140" height="140" style="object-fit: cover;"></td>
+    <td><img src="assets/static2_events.gif" width="140" height="140" style="object-fit: cover;"></td>
   </tr>
 </table>
 
@@ -52,6 +52,48 @@ This enables rigorous evaluation of turbulence mitigation under **real static an
 ---
 
 ### 🌫️ LATH: Long-range Atmospheric Turbulence Hybrid Dataset
+
+<table align="center">
+  <!-- 列标题 -->
+  <tr>
+    <th>Turbulent Video</th>
+    <th>Events</th>
+    <th>Turbulent Video</th>
+    <th>Events</th>
+  </tr>
+
+  <!-- 第一行内容 -->
+  <tr>
+    <td><img src="assets/3.5km_turb.gif" width="180" height="180" style="object-fit: cover;"></td>
+    <td><img src="assets/3.5km_event.gif" width="180" height="180" style="object-fit: cover;"></td>
+    <td><img src="assets/5km_turb.gif" width="180" height="180" style="object-fit: cover;"></td>
+    <td><img src="assets/5km_Event_video.gif" width="180" height="180" style="object-fit: cover;"></td>
+  </tr>
+
+  <!-- 第一行的分组说明 -->
+  <tr>
+    <td colspan="2" align="center"><em>3.5Km, Building</em></td>
+    <td colspan="2" align="center"><em>5Km, Signs and Moving Cars</em></td>
+  </tr>
+
+  <!-- 第二行内容 -->
+  <tr>
+    <td><img src="assets/6.5km_turb.gif" width="180" height="180" style="object-fit: cover;"></td>
+    <td><img src="assets/6.5km_Event_video.gif" width="180" height="180" style="object-fit: cover;"></td>
+    <td><img src="assets/8km_turb.gif" width="180" height="180" style="object-fit: cover;"></td>
+    <td><img src="assets/8km_Event_video.gif" width="180" height="180" style="object-fit: cover;"></td>
+  </tr>
+
+  <!-- 第二行的分组说明 -->
+  <tr>
+    <td colspan="2" align="center"><em>6.5Km, Heavy Traffic</em></td>
+    <td colspan="2" align="center"><em>8Km, Bridge</em></td>
+  </tr>
+</table>
+
+<p align="center">
+  <em>Examples of atmospheric turbulence under different imaging distances.</em>
+</p>
 
 The LATH dataset captures turbulence effects across **various imaging distances and scenes**, including:
 
