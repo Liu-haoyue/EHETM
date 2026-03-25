@@ -10,15 +10,50 @@ The code and dataset will be released soon.
 
 ## 📦 Dataset
 
-We present **CTTH and LATH**, **two event–frame paired datasets** for turbulence imaging research, covering both **thermal** and **atmospheric** cases. We offer both **Baidu Cloud Drive** ([Download Link](https://pan.baidu.com/s/xxxx), code: xxxx) and **Google Drive** ([Download Link](https://drive.google.com/xxxx)). Each sequence is organized as:
+We present **CTTH and LATH**, **two event–frame paired datasets** for turbulence imaging research, covering both **thermal** and **atmospheric** cases. We offer both **Baidu Cloud Drive** ([Download Link](https://pan.baidu.com/s/xxxx), code: xxxx). Each sequence is organized as:
 
-```dataset/ 
-├── events.h5 # Event stream (x, y, t, polarity)
-├── frames/ # Frame images (.png)
-│ ├── 000001.png
-│ ├── 000002.png
-├── timestamps.txt # Frame timestamps
-├── imu.txt (optional) # Ego-motion measurements
+```
+Dataset/
+├── CTTH/
+│   ├── Dynamic_Object/
+│   │   ├── Train/
+│   │   │   ├── seq_000/
+│   │   │   │   ├── GT/
+│   │   │   │   │   ├── frames/
+│   │   │   │   │   ├── events/
+│   │   │   │   │   ├── frame_timestamp.txt
+│   │   │   │   │   └── event_timestamp.txt
+│   │   │   │   ├── Turb/
+│   │   │   │   │   ├── frames/
+│   │   │   │   │   ├── events/
+│   │   │   │   │   ├── frame_timestamp.txt
+│   │   │   │   │   └── event_timestamp.txt
+│   │   │   │   └── Flow/
+│   │   │   └── ...
+│   │   └── Test/
+│   │       ├── seq_000/
+│   │       └── ...
+│   │
+│   ├── Static/
+│   │   ├── Train/
+│   │   │   ├── seq_000/
+│   │   │   │   ├── turb/
+│   │   │   │   ├── event/
+│   │   │   │   ├── frame_timestamp.txt
+│   │   │   │   ├── event_timestamp.txt
+│   │   │   │   └── gt.jpg
+│   │   │   └── ...
+│   │   └── Test/
+│   │       ├── seq_000/
+│   │       └── ...
+│
+├── LATH/
+│   ├── seq_000/
+│   │   ├── turb/
+│   │   ├── events/
+│   │   ├── frame_timestamp.txt
+│   │   └── event_timestamp.txt
+│   └── ...
 ```
 
 ### 🔥 CTTH: Close-range Thermal Turbulence Hybrid Dataset
