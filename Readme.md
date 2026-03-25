@@ -152,7 +152,7 @@ This provides a valuable benchmark for evaluating **generalization under real-wo
 
 ---
 
-This dataset is designed to support:
+The two datasets are designed to support:
 - **Turbulence mitigation**
 - **Event-based video/image restoration**
 ---
