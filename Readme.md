@@ -2,27 +2,40 @@
 ⭐ This repository will contain the official implementation and dataset for our project.
 ⭐ The code and dataset will be released soon.
 
-
-# 🌪️ [Dataset Name]: Close-range Thermal Turbulence Hybrid (CTTH) dataset and Long-range Atmospheric Turbulence Hybrid (LATH) dataset
-
 ---
 
 ## 📌 Overview
 
-We present **[Dataset Name]**, a comprehensive dataset for turbulence imaging research, featuring:
+We present **CTTH and LATH**, **two event–frame paired datasets** for turbulence imaging research, covering both **thermal** and **atmospheric** cases.
 
-- 📷 High-resolution **frame data**
-- ⚡ Event-based **asynchronous data**
-- 🎯 (Optional) **Ego-motion / IMU measurements**
-- 🔄 Paired **clean vs turbulent observations**
+### 🔥 CTTH: Close-range Thermal Turbulence Hybrid Dataset
+
+<p align="center"> <video src="assets/ctth_demo.mp4" width="70%" controls></video> </p>
+
+The CTTH dataset is designed to capture:
+
+- 🚗 Dynamic object
+- 🏙️ Static background structures
+- 🎯 Corresponding ground-truth references
+
+This enables rigorous evaluation of turbulence mitigation under **real static and dynamic-object scenes**.
+
+---
+
+### 🌫️ LATH: Long-range Atmospheric Turbulence Hybrid Dataset
+
+The LATH dataset captures turbulence effects across **various imaging distances and scenes**, including:
+
+- 🌉 Long-range imaging
+- 🏞️ Diverse environmental structures
+
+This provides a valuable benchmark for evaluating **generalization under real-world atmospheric turbulence**.
+
+---
 
 This dataset is designed to support:
-
-- Turbulence mitigation (TM)
-- Event-based vision
-- Multi-modal fusion
-- High-speed imaging research
-
+- **Turbulence mitigation**
+- **Event-based video/image restoration**
 ---
 
 ## 🎬 Visual Examples
