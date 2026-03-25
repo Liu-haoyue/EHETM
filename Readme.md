@@ -10,14 +10,35 @@ We present **CTTH and LATH**, **two event–frame paired datasets** for turbulen
 
 ### 🔥 CTTH: Close-range Thermal Turbulence Hybrid Dataset
 
-<p align="center">
-  <img src="assets/ctth_demo.gif" width="32%">
-  <img src="assets/lath_demo1.gif" width="32%">
-  <img src="assets/lath_demo2.gif" width="32%">
-</p>
+<table align="center">
+  <tr>
+    <th>GT</th>
+    <th>Turbulent Video</th>
+    <th>Events</th>
+    <th>GT</th>
+    <th>Turbulent Video</th>
+    <th>Events</th>
+  </tr>
+  <tr>
+    <td><img src="assets/dynamic1_GT.gif" width="100%"></td>
+    <td><img src="assets/dynamic1_Turb.gif" width="100%"></td>
+    <td><img src="assets/dynamic1_event.gif" width="100%"></td>
+    <td><img src="assets/dynamic2_gt.gif" width="100%"></td>
+    <td><img src="assets/dynamic2_turb.gif" width="100%"></td>
+    <td><img src="assets/dynamic2_event.gif" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/static1_GT.png" width="100%"></td>
+    <td><img src="assets/static1_turb.gif" width="100%"></td>
+    <td><img src="assets/static1_events.gif" width="100%"></td>
+    <td><img src="assets/static2_GT.png" width="100%"></td>
+    <td><img src="assets/static2_turb.gif" width="100%"></td>
+    <td><img src="assets/static2_events.gif" width="100%"></td>
+  </tr>
+</table>
 
 <p align="center">
-  <em>Examples of thermal turbulence (CTTH) and atmospheric turbulence (LATH) under different conditions.</em>
+  <em>Each group shows ground truth, turbulent observation, and corresponding events.</em>
 </p>
 
 The CTTH dataset is designed to capture:
