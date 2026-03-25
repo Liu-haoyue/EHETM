@@ -92,7 +92,7 @@ This enables rigorous evaluation of turbulence mitigation under **real static an
 </table>
 
 <p align="center">
-  <em>Examples of atmospheric turbulence under different imaging distances.</em>
+  <em>Examples of atmospheric turbulence under different shooting distances.</em>
 </p>
 
 The LATH dataset captures turbulence effects across **various imaging distances and scenes**, including:
